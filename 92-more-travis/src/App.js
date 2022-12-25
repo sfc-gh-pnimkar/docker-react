@@ -1,14 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          I was changed on a feature branch
-        </p>
+        <p>Bye there!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
